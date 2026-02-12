@@ -1,15 +1,17 @@
-# Ready Or Not bHaptics and ForceTube mod
+# Ready Or Not VR bHaptics and ForceTube mod
 
 <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144200/header.jpg">
 
 # Description
 
-Ready Or Not bHaptics and Provolver/ForceTube mod. Vest and Arms are supported.</br></br>
+Ready Or Not VR bHaptics and Provolver/ForceTube mod. Vest and Arms are supported.</br></br>
 [https://store.steampowered.com/app/1144200/Ready_or_Not/](https://store.steampowered.com/app/1144200/Ready_or_Not/)
 
 ☕ If you wanna show some support you can buy me a coffee : https://www.buymeacoffee.com/astienth4
 
 # <b>Installation</b></br>
+
+THE VR MOD IS REQUIRED !
 
 1) Download the zip file from [https://github.com/Astienth/ReadyOrNot_Protube_bHaptics/releases/download/1.0.0/RON_bHaptics_Protube.zip](https://github.com/Astienth/ReadyOrNot_Protube_bHaptics/releases/download/1.0.0/RON_bHaptics_Protube.zip) </br>
 2) Extract its content into the **game root folder\ReadyOrNot\Binaries\Win64**, the folder containing the ReadyOrNotSteam-Win64-Shipping.exe.</br>
