@@ -11,7 +11,7 @@ Ready Or Not bHaptics and Provolver/ForceTube mod. Vest and Arms are supported.<
 
 # <b>Installation</b></br>
 
-1) Download the zip file from [https://github.com/Astienth/IntoTheRadius2_bHaptics_ForceTube/releases](https://github.com/Astienth/IntoTheRadius2_bHaptics_ForceTube/releases) corresponding to your game version</br>
+1) Download the zip file from [https://github.com/Astienth/ReadyOrNot_Protube_bHaptics/releases/download/1.0.0/RON_bHaptics_Protube.zip](https://github.com/Astienth/ReadyOrNot_Protube_bHaptics/releases/download/1.0.0/RON_bHaptics_Protube.zip) </br>
 2) Extract its content into the **game root folder\ReadyOrNot\Binaries\Win64**, the folder containing the ReadyOrNotSteam-Win64-Shipping.exe.</br>
 3) Launch bhaptic player and turn your devices on if you use bHaptics. Turn your protube device on if you use protube devices (READ THE PROTUBE SECTION FOR CONFIG)</br>
 4) Launch the game like you usually launch it
